@@ -2,7 +2,7 @@
 
 Hello,
 
-This is Young from LuxPM. You have applied for the position of AI engineer. Thank you for your interest in working with us.
+This is Young from LuxPM. You have applied for the position of data science engineer. Thank you for your interest in working with us.
 
 We have reviewed your application and decided to proceed with the next step which is a coding test. Please follow the guideline for the test.
 
