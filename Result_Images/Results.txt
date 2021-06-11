@@ -1,0 +1,6 @@
+Area of Apple in image 1: 755581 px
+Area of Apple in image 2: 586312 px
+Area Ratio: 1.29
+Max Edge distance in image 1: 1357.4
+Max Edge distance in image 2: 973.5
+Distance Ratio: 1.39
